@@ -6,9 +6,7 @@ public class VerificaParImpar {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
-		
-		boolean par = false;
-				
+								
 		System.out.println("Digite seu salario:  ");
 		int valor = entrada.nextInt();
 		
